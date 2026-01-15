@@ -9,12 +9,14 @@
 // @downloadURL  https://raw.githubusercontent.com/max1874/tampermonkey-scripts/main/scripts/chatgpt-auto-temporary/chatgpt-auto-temporary.user.js
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @run-at       document-start
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
     'use strict';
 
+    // 调试：确认脚本执行
+    alert('[ChatGPT Auto Temporary] Script is running!');
     console.log('[ChatGPT Auto Temporary] Script loaded');
     console.log('[ChatGPT Auto Temporary] Current URL:', window.location.href);
     console.log('[ChatGPT Auto Temporary] Pathname:', window.location.pathname);
