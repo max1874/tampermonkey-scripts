@@ -6,6 +6,8 @@
 // @author       Ritsu
 // @match        https://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://raw.githubusercontent.com/max1874/tampermonkey-scripts/main/scripts/google-authuser-auto/google-authuser-auto.user.js
+// @downloadURL  https://raw.githubusercontent.com/max1874/tampermonkey-scripts/main/scripts/google-authuser-auto/google-authuser-auto.user.js
 // @grant        none
 // ==/UserScript==
 
