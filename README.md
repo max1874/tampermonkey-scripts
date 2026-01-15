@@ -1,5 +1,7 @@
 # Tampermonkey Scripts
 
+[English](README.en.md) | 简体中文
+
 我的油猴脚本集合。
 
 ## 脚本列表

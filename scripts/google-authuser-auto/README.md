@@ -1,5 +1,7 @@
 # Google Authuser Auto Switcher
 
+[English](README.en.md) | 简体中文
+
 自动为 Google 相关网站的 URL 添加 `authuser` 参数，确保使用指定的 Google 账号登录。
 
 ## 功能

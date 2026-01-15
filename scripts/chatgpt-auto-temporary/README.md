@@ -1,5 +1,7 @@
 # ChatGPT Auto Temporary Chat
 
+[English](README.en.md) | 简体中文
+
 自动为每个新的 ChatGPT 对话启用临时对话模式（隐私模式）。
 
 ## 功能
