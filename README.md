@@ -10,6 +10,12 @@
 
 [查看说明](scripts/google-authuser-auto/README.md)
 
+### ChatGPT Auto Temporary Chat
+
+自动为每个新的 ChatGPT 对话启用临时对话模式（隐私模式）。
+
+[查看说明](scripts/chatgpt-auto-temporary/README.md)
+
 ## 安装方法
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
