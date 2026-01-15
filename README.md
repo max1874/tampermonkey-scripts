@@ -4,19 +4,26 @@
 
 ## 脚本列表
 
-### 脚本 1
-<!-- 描述：这个脚本的功能 -->
-<!-- 使用方法：如何安装和使用 -->
+### Google Authuser Auto Switcher
 
-### 脚本 2
-<!-- 描述：这个脚本的功能 -->
-<!-- 使用方法：如何安装和使用 -->
+自动为 Google 相关网站添加 `authuser` 参数，确保使用指定的账号登录。
+
+**[点击安装](https://raw.githubusercontent.com/max1874/tampermonkey-scripts/main/scripts/google-authuser-auto/google-authuser-auto.user.js)** | [查看说明](scripts/google-authuser-auto/README.md)
 
 ## 安装方法
 
-1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 点击对应脚本的 `.user.js` 文件
-3. 点击 "Raw" 按钮，Tampermonkey 会自动提示安装
+### 方法 1：一键安装（推荐）
+
+1. 确保已安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
+2. 点击上面的"点击安装"链接
+3. 在弹出的页面点击"安装"按钮
+
+### 方法 2：手动安装
+
+1. 打开 Tampermonkey 管理面板
+2. 点击右上角 ➕ 图标
+3. 复制脚本代码并粘贴
+4. 保存（Ctrl+S 或 Cmd+S）
 
 ## 目录结构
 
